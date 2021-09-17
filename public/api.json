@@ -1,0 +1,38 @@
+[
+  {
+    "price": 700,
+    "id": 1,
+    "title": "Web Development",
+    "thumbnailUrl": "https://picsum.photos/id/0/600"
+  },
+  {
+    "price": 500,
+    "id": 2,
+    "title": "Photography",
+    "thumbnailUrl": "https://picsum.photos/id/10/600"
+  },
+  {
+    "price": 400,
+    "id": 3,
+    "title": "Graphic Design",
+    "thumbnailUrl": "https://picsum.photos/id/20/600"
+  },
+  {
+    "price": 350,
+    "id": 4,
+    "title": "Screen Printing Design",
+    "thumbnailUrl": "https://picsum.photos/id/30/600"
+  },
+  {
+    "price": 50,
+    "id": 5,
+    "title": "Pet Service",
+    "thumbnailUrl": "https://picsum.photos/id/40/600"
+  },
+  {
+    "price": 150,
+    "id": 450,
+    "title": "Maritime Travel Service",
+    "thumbnailUrl": "https://picsum.photos/id/50/600"
+  }
+]
